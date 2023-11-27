@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile /xampp2/htdocs/moodle/reportes/bi/.htpasswd
+Require user cfrd_udec
+Require user raul

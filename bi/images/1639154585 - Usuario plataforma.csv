@@ -1,0 +1,11 @@
+﻿user_id	username	firstname	lastname	email	has_activity
+guest	1	Invitado	" "	root@localhost	0
+administrador	2	Admin	Usuario	pgodoy@cfrd.cl	1639137630
+usuario1	3	Usuario	Uno	usuario1@gmail.com	1639079265
+suckerl0ve@hotmail.com	4	Nelson	Hidalgo	suckerl0ve@hotmail.com	1576512484
+nelson@cfrd.cl	5	Nelson	Arias	nelson@cfrd.cl	1576665990
+usuario2	6	Usuario	Dos	usuario2@cfrd.cl	1619547000
+usuario3	7	Usuario	Tres	usuario3@cfrd.cl	1619547023
+usuario4	8	Usuario	Cuatro	usuario4@cfrd.cl	1619547049
+usuario5	9	Usuario	Cinco	usuario5@cfrd.cl	0
+usuario6	10	Usuario	Seis	usuario6@cfrd.cl	0

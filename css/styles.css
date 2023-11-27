@@ -1,0 +1,26 @@
+body{
+    background-color: #ffffff;
+}
+.bg-purple {
+    background-color: #6f42c1;
+}
+.bg-campus-blue {
+    background-color: #1b2fa6!important;
+}
+nav {
+    max-height: 300px;
+    margin-bottom: 3rem;
+}
+nav.navbar .logo img {
+    max-height: 70px;
+}
+.navbar-brand {
+    margin-left: 2rem;
+}
+main {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+}
+table {
+    margin-top: 150px;
+}
